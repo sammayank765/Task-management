@@ -31,7 +31,7 @@ This is a Task Management System built with Node.js, MySQL, and GraphQL. It allo
 2. Navigate to the project directory:
 
     ```bash
-    cd task-management
+    cd Task-management
     
 3. Install dependencies:
 
